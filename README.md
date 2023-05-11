@@ -10,8 +10,7 @@
 
 ### Social network:
 
-[![TELEGRAM](https://github-readme-stats.vercel.app/api/top-langs/?username=BulavaSemen&layout=compact&theme=dark)](https://t.me/semenbulava)
-
+[![TELEGRAM](https://img.shields.io/badge/JQUERY-black?style=for-the-badge&logo=jquery&logoColor=blue)](https://t.me/semenbulava)
 
 
 
