@@ -10,7 +10,7 @@
 
 ### Social network:
 
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/semenbulava)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram&logoColor=#2BA6E1)](https://t.me/semenbulava)
 
 
 
