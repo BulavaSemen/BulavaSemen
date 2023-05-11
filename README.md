@@ -12,6 +12,9 @@
 
 [![TELEGRAM]([ссылка на изображение кнопки](https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram&logoColor=#2BA6E1))](https://t.me/semenbulava)
 
+[![Связаться с нами в Telegram](https://telegram.org/img/t_logo.png)](https://t.me/my_telegram_username)
+
+
 
 
 
