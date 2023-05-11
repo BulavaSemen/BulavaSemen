@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/JQUERY-black?style=for-the-badge&logo=jquery&logoColor=blue"/> <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react&logoColor=#5ED3F3FF"/> <img src="https://img.shields.io/badge/REDUX-black?style=for-the-badge&logo=redux&logoColor=violet"/> <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=#DD4B25FF"/>  
 <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=#FFFFFF"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BulavaSemen&layout=compact)](https://github.com/BulavaSemen/github-readme-stats)
 
 
 
