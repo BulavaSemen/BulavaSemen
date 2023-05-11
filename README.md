@@ -8,7 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BulavaSemen&layout=compact&theme=dark)](https://github.com/BulavaSemen/github-readme-stats)
 
-### Social networks:
+### Social network:
+
+<img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram&logoColor=#2BA6E1"/> 
 
 
 
