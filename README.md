@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BulavaSemen&layout=compact&theme=dark)](https://github.com/BulavaSemen/github-readme-stats)
 
-### Social network:
+### Social networks:
 
 
 
