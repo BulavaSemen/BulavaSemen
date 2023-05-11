@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/JQUERY-black?style=for-the-badge&logo=jquery&logoColor=blue"/>
 <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react&logoColor=#5ED3F3FF"/>
 <img src="https://img.shields.io/badge/REDUX-black?style=for-the-badge&logo=redux&logoColor=violet"/>
-<img src="https://img.shields.io/badge/GIT?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT?style=for-the-badge&logo=git&logoColor=blue"/>
 
 
 
