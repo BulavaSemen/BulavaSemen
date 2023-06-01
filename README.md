@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=#FFFFFF"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BulavaSemen&layout=compact&theme=dark)](https://github.com/BulavaSemen/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BulavaSemen&layout=compact&theme=dark)](https://github.com/BulavaSemen/github-readme-stats) -->
 
 ### Social network:
 
